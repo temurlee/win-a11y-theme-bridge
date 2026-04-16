@@ -1,6 +1,6 @@
 # win-a11y-theme-bridge
 
-一份 `AGENTS.md` 规范，用于指导 AI 编码助手将 Windows 应用的颜色改造为符合 Windows 11 对比度主题的无障碍合规状态。AI 助手会自动识别项目的技术栈并选择对应的实现方式。
+一份 `AGENTS.md` 规范，指导 AI 编码助手自动识别项目技术栈，并将 Windows 应用配色改造为符合 Windows 11 高对比度无障碍主题的合规实现。
 
 ---
 
