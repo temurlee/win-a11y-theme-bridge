@@ -6,7 +6,7 @@
 
 ## 样式映射效果（Figma MCP 验证）
 
-| 默认 | Aquatic（水蓝） | Desert（沙漠） | Dusk（黄昏） | Night Sky（夜空） |
+| 默认 | Aquatic（水生） | Desert（沙漠） | Dusk（黄昏） | Night Sky（夜空） |
 |------|----------------|---------------|-------------|-----------------|
 | <img src="assets/preview-default.png" width="160"/> | <img src="assets/preview-aquatic.png" width="160"/> | <img src="assets/preview-desert.png" width="160"/> | <img src="assets/preview-dusk.png" width="160"/> | <img src="assets/preview-night-sky.png" width="160"/> |
 
